@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hospital/Hospital.iml" filepath="$PROJECT_DIR$/Hospital/Hospital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insurance/Insurance.iml" filepath="$PROJECT_DIR$/Insurance/Insurance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movies/Movies.iml" filepath="$PROJECT_DIR$/Movies/Movies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Object-Oriented-Programming.iml" filepath="$PROJECT_DIR$/.idea/Object-Oriented-Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PacMan/PacMan.iml" filepath="$PROJECT_DIR$/PacMan/PacMan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PackageShipping/PackageShipping.iml" filepath="$PROJECT_DIR$/PackageShipping/PackageShipping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PackageShippingFiles/PackageShippingFiles.iml" filepath="$PROJECT_DIR$/PackageShippingFiles/PackageShippingFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PackageShippingGUI/PackageShippingGUI.iml" filepath="$PROJECT_DIR$/PackageShippingGUI/PackageShippingGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reservations/Reservations.iml" filepath="$PROJECT_DIR$/Reservations/Reservations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaxDeclaration/TaxDeclaration.iml" filepath="$PROJECT_DIR$/TaxDeclaration/TaxDeclaration.iml" />
+    </modules>
+  </component>
+</project>
